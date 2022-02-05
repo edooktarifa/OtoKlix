@@ -10,6 +10,8 @@ di bawah ini merupakan screenshot dari aplikasi todo list:
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Edit & Delete
+untuk edit dan delete pada bahagian list bisa di swipe ke kiri seperti tampilan dibawah. untuk menghapus bisa memilih tombol delete dan untuk edit bisa memilih tombol edit.
+
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Posts

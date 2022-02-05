@@ -1,0 +1,6 @@
+framework module Pods_OtoKlix_OtoKlixUITests {
+  umbrella header "Pods-OtoKlix-OtoKlixUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

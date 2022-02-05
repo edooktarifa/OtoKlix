@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (6.3.1)
+  - netfox (1.20.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Kingfisher
+  - netfox
+  - NVActivityIndicatorView
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - netfox
+    - NVActivityIndicatorView
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  netfox: 6b5c9724304b0cd99ca8515ac732a9f710e4ea5f
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: a3414fa5ccb28618ad7525dd466479c1e45dd7e4
+
+COCOAPODS: 1.11.2

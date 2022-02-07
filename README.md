@@ -1,7 +1,7 @@
 
 # OtoKlik Test
 
-membuat aplikasi todo list CRUD menggunakan api, pada aplikasi ini kita bisa menambahkan, update, hapus, menampikan list.
+membuat aplikasi todo list CRUD menggunakan api, pada aplikasi ini kita bisa menambahkan, update, hapus, menampikan list. aplikasi menggunakan design pattern MVVM.
 
 di bawah ini merupakan screenshot dari aplikasi todo list:
 
